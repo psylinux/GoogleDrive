@@ -13,12 +13,14 @@ $ sudo apt-get install google-drive-ocamlfuse
 ```bash
 $ vi ~/.bashrc
 ```
-**Add the following lines**
+
+**Add the following lines at the end of the .bashrc**
 ```bash
 PATH=$PATH:$HOME/.opam/system/bin
 export PATH 
 ```
 
+Then run
 ```bash
 $ source ~/.bashrc 
 ```
