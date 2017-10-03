@@ -25,7 +25,9 @@ Then run
 $ source ~/.bashrc 
 ```
 
-## Setting up User
+## Setting up your linux local user
+In order to access the mount point you need to setup your local linux user
+
 ```bash
 $ sudo groupadd fuse
 $ sudo usermod -a -G fuse <your_user>
