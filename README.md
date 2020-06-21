@@ -1,6 +1,6 @@
-# Google Drive Mount
+# Google Drive Mounter
 
-**Google Drive Mount** is a simple shell script to mount GoogleDrive volume. The advantage of this technique is that doesn't use hard disc space, once it is mounted from the cloud.
+**Google Drive Mounter** is a simple shell script to mount GoogleDrive volume. The advantage of this technique is that doesn't use hard disc space, once it is mounted from the cloud.
 
 ## Installing google-drive-ocamlfuse on Ubuntu or Linux Mint, you can use its official PPA as follows.
 ```bash
